@@ -1,0 +1,15 @@
+server:
+  port: 9093
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: FOODCATALOGUE-SERVICE
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true

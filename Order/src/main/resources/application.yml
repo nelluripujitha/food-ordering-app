@@ -1,0 +1,15 @@
+server:
+  port: 9094
+spring:
+  profiles:
+    active: dev
+  application:
+    name: ORDER-SERVICE
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/userOrderDB
+      host: localhost
+      port: 27017
+      database: userOrderDB
+      repositories:
+        enabled: true

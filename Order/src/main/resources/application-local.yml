@@ -1,0 +1,13 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8082/eureka/
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/userOrderDB
+      host: localhost
+      port: 27017
+      database: userOrderDB
+      repositories:
+        enabled: true
