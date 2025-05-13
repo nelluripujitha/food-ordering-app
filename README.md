@@ -11,7 +11,6 @@ This application is structured using **microservices** and demonstrates real-wor
 - 🔐 Secure User Authentication
 - 🏪 Restaurant Browsing & Menu Management
 - 🛒 Add to Cart & Place Orders
-- 📦 Track Order Status
 - 🌐 Microservices with Eureka Discovery
 - ☁️ Cloud Deployment via AWS (EC2, EKS, RDS)
 
@@ -86,16 +85,15 @@ Make sure you:
 
 ### 📥 Clone the Repository
 
-```bash
+
 git clone https://github.com/nelluripujitha/food-ordering-app.git
 cd food-ordering-app
-
+---
 ## 📬 Contact
 
 **Mani Pujitha Nelluri**  
 📧 pujitha2111@gmail.com  
 🔗 [GitHub](https://github.com/nelluripujitha)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mani-pujitha-nelluri)
 
 
 
