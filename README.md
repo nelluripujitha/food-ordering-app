@@ -61,6 +61,18 @@ Make sure you:
 4. Use environment variables to inject AWS secrets securely
 
 ---
+## 📝 Future Enhancements
+
+✅ JWT-based authentication
+
+✅ Upload profile/menu images to S3
+
+✅ Integrate AWS SES for email notifications
+
+📦 Payment gateway integration
+
+🧪 Add full test coverage
+
 
 ## 🛠️ Setup Guide
 
@@ -72,17 +84,6 @@ Make sure you:
 - AWS CLI configured
 - Maven
 
-###📝 **Future Enhancements**
-
-✅ JWT-based authentication
-
-✅ Upload profile/menu images to S3
-
-✅ Integrate AWS SES for email notifications
-
-📦 Payment gateway integration
-
-🧪 Add full test coverage
 
 
 ### Clone the Repository
