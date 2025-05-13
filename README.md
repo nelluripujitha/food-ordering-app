@@ -34,12 +34,13 @@ This application is structured using **microservices** and demonstrates real-wor
 | Layer          | Technology                                  |
 |----------------|---------------------------------------------|
 | Backend        | Java, Spring Boot, Spring Data JPA          |
-| Frontend       | HTML/CSS/TypeScript/ANgular                 |
+| Frontend       | HTML/CSS/TypeScript/Angular                 |
 | Database       | **PostgreSQL on Amazon RDS** , MongoDB      |
 | Object Storage | **Amazon S3** for images & assets           |
-| Deployment     | **EC2**, **EKS**                            |             
+| Deployment     | **EC2**, **EKS**, **RDS**                   |             
 | Container      | Docker                                      |
 | CI/CD          | Jenkins                                     |
+| Code Coverage  | SonarQube                                   |
 
 ---
 
@@ -50,7 +51,7 @@ The `Deployments/` folder contains:
 - 🐳 **Dockerfiles**: Containerization setup for microservices
 - 🚀 **EC2/EKS Setup**: Scripts for provisioning and deploying to EC2 or EKS
 - 🔄 **RDS Configuration**: DB schema init and connectivity
-- 🧾 **IAM Policies & Roles**: Least-privilege access to S3, RDS, and CloudWatch
+- 🧾 **IAM Policies & Roles**: Least-privilege access to EKS, RDS, and EC2
 
 Make sure you:
 
