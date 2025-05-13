@@ -55,9 +55,8 @@ The `Deployments/` folder contains:
 Make sure you:
 
 1. Configure your AWS CLI with `aws configure`
-2. Set IAM permissions for S3, EC2, and RDS access
-3. Use provided scripts or Terraform templates to deploy infrastructure
-4. Use environment variables to inject AWS secrets securely
+2. Set IAM permissions for EKS, EC2, and RDS access
+3. Use kubectl commands to create the cluster and nodes in EKS
 
 ---
 ## 📝 Future Enhancements
@@ -88,14 +87,14 @@ Make sure you:
 ```bash
 git clone https://github.com/nelluripujitha/food-ordering-app.git
 cd food-ordering-app
+```
 
----
-
-## Contact
+## 📞 Contact
 
 **Mani Pujitha Nelluri**  
-📧 pujitha2111@gmail.com  
+📧 [pujitha2111@gmail.com](mailto:pujitha2111@gmail.com)  
 🔗 [GitHub](https://github.com/nelluripujitha)
+
 
 
 
