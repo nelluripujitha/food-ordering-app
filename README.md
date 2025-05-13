@@ -72,15 +72,8 @@ Make sure you:
 - AWS CLI configured
 - Maven
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/nelluripujitha/food-ordering-app.git
-cd food-ordering-app
-
----
-
 ###📝 **Future Enhancements**
+
 ✅ JWT-based authentication
 
 ✅ Upload profile/menu images to S3
@@ -90,3 +83,13 @@ cd food-ordering-app
 📦 Payment gateway integration
 
 🧪 Add full test coverage
+
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/nelluripujitha/food-ordering-app.git
+cd food-ordering-app
+
+---
+
