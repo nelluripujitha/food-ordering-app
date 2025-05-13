@@ -87,17 +87,21 @@ Make sure you:
 
 ```bash
 git clone https://github.com/nelluripujitha/food-ordering-app.git
-cd food-ordering-app ```
+cd food-ordering-app
 
+---
 
-
-### 📬 Contact
+## Contact
 
 **Mani Pujitha Nelluri**  
 📧 pujitha2111@gmail.com  
 🔗 [GitHub](https://github.com/nelluripujitha)
 
----
+
+
+
+
+
 
 
 
