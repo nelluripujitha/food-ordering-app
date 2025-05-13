@@ -78,7 +78,9 @@ Make sure you:
 git clone https://github.com/nelluripujitha/food-ordering-app.git
 cd food-ordering-app
 
-###**📝 Future Enhancements**
+---
+
+###📝 **Future Enhancements**
 ✅ JWT-based authentication
 
 ✅ Upload profile/menu images to S3
